@@ -13,18 +13,18 @@ info:
   website: ""
 
 admin:
-  view: "view.blade.php"
+  view: "admin/view.blade.php"
   controller: ""
   css: ""
   wrapper: ""
 
 dashboard:
   wrapper: ""
-  css: ""
+  css: "client/client.style.css"
 
 data:
-  directory: "data"
-  public: ""
+  directory: ""
+  public: "public"
 
 database:
   migrations: ""
