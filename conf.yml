@@ -1,0 +1,30 @@
+# Thank you for developing with Blueprint.
+# For documentation about conf.yml, refer to ptero.shop/dev/conf.
+
+info:
+  name: "Recolor"
+  identifier: "recolor"
+  description: "."
+  flags: ""
+  version: "0.0.1"
+  target: "alpha-L53"
+  author: "sp11rum"
+  icon: "assets/logo.jpg"
+  website: ""
+
+admin:
+  view: "view.blade.php"
+  controller: ""
+  css: ""
+  wrapper: ""
+
+dashboard:
+  wrapper: ""
+  css: ""
+
+data:
+  directory: "data"
+  public: ""
+
+database:
+  migrations: ""
