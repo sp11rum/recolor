@@ -4,9 +4,9 @@
 info:
   name: "Recolor"
   identifier: "recolor"
-  description: "."
+  description: "An advanced dark theme for Pterodactyl."
   flags: ""
-  version: "0.0.1"
+  version: "indev"
   target: "alpha-L53"
   author: "sp11rum"
   icon: "assets/logo.jpg"
