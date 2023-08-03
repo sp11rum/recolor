@@ -37,7 +37,7 @@ div.ServerRow___StyledP3-sc-1ibsw91-9 {
    text-decoration-color: whitesmoke;
 }
 div.style-module_2Vp6MaXq.bg-gray-600.cursor-pointer {
-  background: rgba(0, 0, 0, 0);
+  background: rgba(51, 51, 51, 1);
   border-radius: 16px;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(9.2px);
@@ -45,7 +45,7 @@ div.style-module_2Vp6MaXq.bg-gray-600.cursor-pointer {
 }
 
 div.style-module_2Vp6MaXq.bg-gray-600 {
-  background: rgba(255, 255, 255, 0);
+  background: rgba(51, 51, 51, 1);
   border-radius: 16px;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(9.2px);
