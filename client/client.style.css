@@ -220,24 +220,12 @@ div.server-console-style-module__icon.bg-gray-700 {
   background-color: var(--two);
 }
 
-button.style-module_4LBM1DKx {
-  /* From https://css.glass */
-  background: rgba(255, 255, 255, 0);
-  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-  backdrop-filter: blur(8.6px);
-  -webkit-backdrop-filter: blur(8.6px);
+div.headlessui-dialog-panel-2 {
+  background-color: var(--two);
 }
 
-div.server-console-style-module__chart_container {
-  background: rgba(255, 255, 255, 0);
-  border-radius: 16px;
-  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-  backdrop-filter: blur(9.2px);
-  -webkit-backdrop-filter: blur(9.2px);
-}
-
-button.style-module_4LBM1DKx.style-module_3kBDV_wo.style-module_Yp7-2Fw-.flex-1:hover {
-  background-color: var(--one);
+div.style-module_1RnhIT0w {
+  background-color: var(--two);
 }
 
 input.Input-sc-19rce1w-0.ZkNLd {
