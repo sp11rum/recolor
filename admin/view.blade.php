@@ -10,3 +10,4 @@
         <p>You are currently running version <code>^#version#^</code>.</p>
       </div>
     </div>
+</div>
