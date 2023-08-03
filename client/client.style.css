@@ -5,7 +5,7 @@
   --bg: url("https://i.imgur.com/gFCJhqT.jpg");
 }
 
-html {
+html, body.bg-neutral-800 {
   background-image: var(--bg);
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -21,7 +21,10 @@ a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D.fRw
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D.fwbDSe.DashboardContainer___StyledServerRow-sc-1topkxf-2.jbVWLN {
   background-color: var(--one) !important;
   background-size: cover;
+}
 
+.GreyRowBox-sc-1xo9c6v-0 {
+  background-color: var(--one) !important;
 }
 
 div.SubNavigation-sc-lfuaoi-0 {
@@ -68,6 +71,25 @@ a.style-module_35MPv1CD.style-module_35MPv1CD.active {
   background-color: var(--one);
 }
 
+/* Modal button row */
+.px-6.py-3.bg-gray-700.flex.items-center.justify-end.space-x-3.rounded-b {
+  background-color: var(--one);
+}
+
+/* Schedule "nav"bar */
+.ScheduleEditContainer___StyledDiv3-sc-1fhsmlc-7.bNXcqn {
+  background-color: var(--one);
+} 
+
+/* Schedule Cron */
+.ScheduleEditContainer___StyledDiv-sc-1fhsmlc-0.bWXUsX {
+  background-color: var(--two);
+}
+
+/* Schedule Task */
+.ScheduleTaskRow___StyledDiv-sc-17r38ls-0.ipThkt {
+  background-color: var(--two);
+}
 
 .style-module_1WqkLT9X {
   background-color: var(--one) !important;
