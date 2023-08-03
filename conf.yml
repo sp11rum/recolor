@@ -10,7 +10,7 @@ info:
   target: "alpha-L53"
   author: "sp11rum"
   icon: "assets/logo.jpg"
-  website: ""
+  website: "https://github.com/sp11rum/recolor"
 
 admin:
   view: "admin/view.blade.php"
