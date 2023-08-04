@@ -6,7 +6,7 @@ info:
   identifier: "recolor"
   description: "An advanced dark theme for Pterodactyl."
   flags: ""
-  version: "1.0"
+  version: "1.1"
   target: "alpha-L53"
   author: "sp11rum"
   icon: "assets/logo.jpg"
