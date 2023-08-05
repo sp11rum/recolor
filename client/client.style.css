@@ -14,6 +14,16 @@ html, body.bg-neutral-800 {
   background-color: transparent;
 }
 
+/* login page */
+div.LoginFormContainer___StyledDiv-sc-cyh04c-3.cxOtYP {
+  background-color: var(--one) !important;
+}
+
+/* login page label */
+label.Label-sc-g780ms-0.dqkKHi {
+  color: var(--three) !important;
+}
+
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D.fRwFrz.DashboardContainer___StyledServerRow-sc-1topkxf-2 {
   background-color: var(--one) !important;
 }
