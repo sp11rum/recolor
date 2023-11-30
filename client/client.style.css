@@ -2,7 +2,7 @@
   --one: #1A1A1A;
   --two: #333333;
   --three: #585858;
-  --bg: url("https://i.imgur.com/gFCJhqT.jpg");
+  --bg: url("/extensions/recolor/dark.jpg");
 }
 
 html, body.bg-neutral-800 {
